@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js and Django**
 
-- 💬 Ask me about **react, node.js, c++ and data structures**
+- 💬 Ask me about **react,java script, c++ and data structures**
 
 - 📫 How to reach me **jangraavinesh@gmail.com**
 
